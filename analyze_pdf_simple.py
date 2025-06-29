@@ -6,17 +6,10 @@ import sys
 import os
 from pathlib import Path
 
-# Ladda .env
-env_file = Path(__file__).parent / '.env'
-if env_file.exists():
-    with open(env_file) as f:
-        for line in f:
-            if 'ANTHROPIC_API_KEY' in line:
-                key, value = line.strip().split('=', 1)
-                os.environ[key] = value
+# Claude Code används istället för API
 
 from pdf_reader import PDFReader
-from claude_analyzer import ClaudeAnalyzer
+from claude_code_analyzer import ClaudeCodeAnalyzer
 
 def analyze_pdf(pdf_path: str):
     """Analysera en PDF-fil"""
@@ -45,11 +38,8 @@ def analyze_pdf(pdf_path: str):
     print(preview + "..." if len(pdf_data['text']) > 500 else preview)
     print("-" * 60)
     
-    # Analysera med Claude
-    analyzer = ClaudeAnalyzer()
-    if not analyzer.api_key:
-        print("\n❌ Ingen API-nyckel konfigurerad!")
-        return
+    # Analysera med Claude Code
+    analyzer = ClaudeCodeAnalyzer()
     
     print("\nAnalyserar med Claude AI...")
     

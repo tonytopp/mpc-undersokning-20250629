@@ -10,7 +10,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from pdf_reader import PDFReader
 from google_drive_handler import GoogleDriveHandler
-from claude_analyzer import ClaudeAnalyzer as AIAnalyzer
+from claude_code_analyzer import ClaudeCodeAnalyzer as AIAnalyzer
 import json
 from datetime import datetime
 

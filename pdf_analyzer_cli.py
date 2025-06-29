@@ -7,20 +7,16 @@ import os
 import sys
 import json
 from pdf_reader import PDFReader
-from claude_analyzer import ClaudeAnalyzer
+from claude_code_analyzer import ClaudeCodeAnalyzer
 from google_drive_handler import GoogleDriveHandler
 
 def main():
     print("PDF Analyzer CLI")
     print("=" * 50)
     
-    # Check Claude API
-    analyzer = ClaudeAnalyzer()
-    if analyzer.api_key:
-        print("✓ Claude API key configured")
-    else:
-        print("✗ Claude API key missing!")
-        print("  Set with: export ANTHROPIC_API_KEY='your-key'")
+    # Check Claude Code
+    analyzer = ClaudeCodeAnalyzer()
+    print("✓ Using Claude Code for analysis")
     
     # Main menu
     while True:
@@ -73,8 +69,8 @@ def analyze_local_pdf(analyzer):
     print(text[:500] + "..." if len(text) > 500 else text)
     print("-" * 40)
     
-    # Analyze with Claude
-    if analyzer.api_key:
+    # Analyze with Claude Code
+    if True:  # Claude Code is always available
         analyze = input("\nAnalyze with Claude? (y/n): ")
         if analyze.lower() == 'y':
             print("\nAnalysis types:")
@@ -118,10 +114,7 @@ def analyze_local_pdf(analyzer):
                 print(f"Analysis failed: {result.get('message', 'Unknown error')}")
 
 def test_claude(analyzer):
-    """Test Claude with sample text"""
-    if not analyzer.api_key:
-        print("Claude API key not configured!")
-        return
+    """Test Claude Code with sample text"""
     
     sample_text = """
     Artificial Intelligence (AI) is rapidly transforming how we work and live. 

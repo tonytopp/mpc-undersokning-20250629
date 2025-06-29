@@ -9,22 +9,15 @@ from pathlib import Path
 from datetime import datetime
 import glob
 
-# Ladda .env
-env_file = Path(__file__).parent / '.env'
-if env_file.exists():
-    with open(env_file) as f:
-        for line in f:
-            if 'ANTHROPIC_API_KEY' in line:
-                key, value = line.strip().split('=', 1)
-                os.environ[key] = value
+# Claude Code används istället för API
 
 from pdf_reader import PDFReader
-from claude_analyzer import ClaudeAnalyzer
+from claude_code_analyzer import ClaudeCodeAnalyzer
 
 def analyze_and_categorize_pdfs(pdf_paths):
     """Analysera och kategorisera flera PDFer"""
     reader = PDFReader()
-    analyzer = ClaudeAnalyzer()
+    analyzer = ClaudeCodeAnalyzer()
     
     results = {
         'invoices': [],
