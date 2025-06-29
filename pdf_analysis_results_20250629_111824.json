@@ -1,0 +1,23 @@
+{
+  "invoices": [
+    {
+      "file": "Faktura1037ElenaMaghici.pdf",
+      "path": "/Users/tonytopp/Downloads/Faktura1037ElenaMaghici.pdf",
+      "pages": 1,
+      "category": "invoice",
+      "summary": "Here is a concise summary of the key information in the text:\n\n- This is an invoice (Faktura) from Tony Topp Energilösningar to customer Elena Maghici.\n- The invoice number is 1037, dated June 24, 2025 with a due date of July 4, 2025.\n- The order number is 1039 and the order was placed on June 18, 2025.\n- The invoice includes various items purchased, such as fittings, valves, and labor charges, with discounts applied.\n- The total amount to be paid is 8,933 SEK, which includes 2,161.68 SEK in VAT.\n- There is a 1,875 SEK ROT tax deduction for the customer.\n- The company's VAT registration number and contact information are provided.\n\nThe main points are the invoice details, the items purchased, the discounts, taxes, and the total amount due."
+    }
+  ],
+  "technical_docs": [
+    {
+      "file": "httpswww.rskdatabasen.seinfodocsMONTMONT_613_8236313.pdf.pdf",
+      "path": "/Users/tonytopp/Library/Mobile Documents/com~apple~CloudDocs/Downloads/httpswww.rskdatabasen.seinfodocsMONTMONT_613_8236313.pdf.pdf",
+      "pages": 2,
+      "category": "technical_doc",
+      "summary": "The provided text appears to be a technical document or product information related to the GROHE brand. The key points are:\n\n1. It contains design and engineering details for a GROHE product.\n2. The document includes product codes and model numbers (e.g., 46 374, 46 589).\n3. It lists various color options for the product, including pink, green, and rose.\n4. The text provides flow rate information in gallons per minute (1.2 gpm, 1.5 gpm) and liters per minute (4.5 l/min, 5.7 l/min).\n5. The document includes a product code 46 580.\n\nOverall, this appears to be a technical specification or product information sheet for a GROHE product, focusing on design, engineering, color options, and flow rate details."
+    }
+  ],
+  "product_info": [],
+  "other": [],
+  "errors": []
+}

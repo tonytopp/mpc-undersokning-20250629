@@ -1,0 +1,65 @@
+{
+  "invoices": [
+    {
+      "file": "Faktura1037ElenaMaghici.pdf",
+      "path": "/Users/tonytopp/Downloads/Faktura1037ElenaMaghici.pdf",
+      "pages": 1,
+      "category": "invoice",
+      "summary": "Here is a concise summary of the key information in the text:\n\n- This is a bill/invoice (Faktura) from a company called Tony Topp Energilösningar.\n- The invoice is addressed to a customer named Elena Maghici, customer number 69.\n- The invoice date is June 24, 2025 and the due date is July 4, 2025.\n- The order number is 1039 and the payment terms are 10 days net.\n- The invoice includes several items purchased, including:\n  - 40 PRK VINKEL 404, 1 MUFF R40, 2 SEXKANTNIPPEL R40, 2 50 KULV. AL 3605V AZH MÄSSING\n  - 4 hours of labor for \"reppool hämt mat mm\"\n  - 1 Servicebil Trollhättan\n- There is a 1,875 SEK ROT-avdrag (tax deduction) for the customer.\n- The total amount to be paid is 8,933 SEK, including 2,161.68 SEK in VAT.\n- The company's VAT registration number and contact information are provided."
+    },
+    {
+      "file": "Offert1000Österlånggatan106grundmälklarna.pdf",
+      "path": "/Users/tonytopp/Downloads/Offert1000Österlånggatan106grundmälklarna.pdf",
+      "pages": 1,
+      "category": "invoice",
+      "summary": "Here is a concise summary of the key information in the provided text:\n\n- This is a commercial offer (Offert) with the customer number 67, offer number 1000, and valid until 2025-05-15.\n- The offer is from Österlånggatan 106 grundmälklarna, with payment terms of 30 days net.\n- The main items in the offer are:\n  - 2 x PUMPSTYRNING FGC211 FLYGT at 18,055 SEK\n  - 2 x NIVÅGIVARE LTU 601, 0-3, 12M at 17,250 SEK \n  - 2 x Shelly pm 12 volt inkl adappter at 2,400 SEK\n  - 1 x kappsling elmaterial mm at 1,500 SEK\n  - 6 hours of Arbetstid montering larm koll innan mm at 4,500 SEK\n- The total amount of the offer is 54,631 SEK, including 10,926.25 SEK in VAT.\n- The offer is from Tony Topp at Energilösningar, with the VAT registration number SE700922563701."
+    },
+    {
+      "file": "Order1033Kronstrandsvvsab.pdf",
+      "path": "/Users/tonytopp/Downloads/Order1033Kronstrandsvvsab.pdf",
+      "pages": 1,
+      "category": "invoice",
+      "summary": "Here is a concise summary of the key information in the provided text:\n\n- This is Order Sida 1 for Customer Number 000013, with Order Number 1033.\n- The order is placed by Kronstrands vvs ab, located in Grästorp, with organization number 5591104673.\n- The payment terms are 10 days net, with the reference person being Tony Topp.\n- The work description is for \"Rasta tre älgar: Faktura elektriker ledningsundersökning, montering elmaterial\".\n- The invoice is for 1 unit of \"Faktura Vänersnäs kyl- och värmeservice\" at a price of 4,337.00 SEK.\n- The total amount, including any fees or taxes, is 4,337.00 SEK.\n- The invoice is subject to a 10% late payment interest rate after the due date.\n- The invoice is under the reverse charge VAT mechanism.\n- The invoice is issued by Tony Topp Energilösningar, with VAT registration number SE700922563701, located in Vänersnäs."
+    },
+    {
+      "file": "sammanstallning_kostnader.pdf",
+      "path": "/Users/tonytopp/Downloads/sammanstallning_kostnader.pdf",
+      "pages": 2,
+      "category": "invoice",
+      "summary": "Here is a concise summary of the key information in the provided text:\n\nThe text is a summary of materials and costs for a project. The main points are:\n\n- Total labor time is 29 hours, costing 21,750 kr.\n- Various pipe fittings, valves, and components were purchased, totaling 2,705.03 kr.\n- Insulation materials were purchased, including Armaflex, Insul K, and insulation tape, totaling 3,472.92 kr.\n- The total cost for the materials and labor is 27,927.95 kr.\n\nThe text provides a detailed breakdown of the specific materials purchased and their individual costs. The main categories are labor, pipe/valve components, and insulation materials."
+    }
+  ],
+  "technical_docs": [
+    {
+      "file": "Schneider Electric_Harmony-Relay_RXG23P7.pdf",
+      "path": "/Users/tonytopp/Downloads/Schneider Electric_Harmony-Relay_RXG23P7.pdf",
+      "pages": 14,
+      "category": "technical_doc",
+      "summary": "Baserat på den givna texten kan följande sammanfattning ges:\n\nHuvudpunkter:\n- Produkten är ett Harmony Relay, ett plug-in relä med 2 växlande kontakter, LED-indikering och 230 V AC märkspänning.\n- Tekniska specifikationer:\n  - Märkström: 5 A vid -40...55°C\n  - Isolationsspänning: 250 V enligt IEC, 300 V enligt CSA och UL\n  - Maximal kopplingskapacitet: 1250 VA\n  - Mekanisk livslängd: 10 miljoner cykler\n  - Driftfrekvens: ≤1800 cykler/timme vid belastning, ≤18000 cykler/timme utan belastning\n- Produkten uppfyller standarder som IEC 61810-1, CSA C22.2 och UL 508, och är certifierad enligt CSA, CE, UL, EAC och DNV-GL.\n- Användning av dokumentationen: Dokumentationen får inte användas för att avgöra produktens lämplighet eller tillförlitlighet."
+    },
+    {
+      "file": "Trestad center 2024 översikt - Blad1.pdf",
+      "path": "/Users/tonytopp/Downloads/Trestad center 2024 översikt - Blad1.pdf",
+      "pages": 2,
+      "category": "technical_doc",
+      "summary": "Here is a concise summary of the key information in the text:\n\n- The document contains energy consumption data for a building called \"Trestadcenter\" over 2024 and 2025, broken down by month and by the 3 heat pumps (VP1, VP2, VP3).\n\n- The total annual energy consumption across the 3 heat pumps was 57,724 kWh in 2024.\n\n- In 2025, the energy consumption for the first 3 months (Jan-Mar) is provided, showing a total of 47.3 MWh.\n\n- There is also information about a \"Normvilla\" building, with details on its size (10,000 m2) and energy use (1.7 kWh/m2).\n\n- The text then describes various \"Åtgärder\" (actions/measures) taken, including:\n  - Upgrading to modern heat pumps with more measurement points and alarms\n  - Locating and shutting off unused cooling circuits\n  - Adjusting the electric heater for hot water, which was incorrectly set\n  - Reviewing the ventilation system\n\n- The document mentions potential energy savings from these measures, but does not provide specific numbers.\n\nIn summary, the text provides energy consumption data for a building and describes various optimization efforts undertaken, but the main focus is on the detailed energy use breakdown across the different heat pumps."
+    },
+    {
+      "file": "Trestad center 2024 översikt.pdf",
+      "path": "/Users/tonytopp/Downloads/Trestad center 2024 översikt.pdf",
+      "pages": 4,
+      "category": "technical_doc",
+      "summary": "Here is a concise summary of the key information in the text:\n\nMain Points:\n- Detailed energy consumption data for a facility called Trestadcenter, broken down by month and by 3 different heat pumps (VP1, VP2, VP3)\n- Includes outdoor temperature data as well\n- Provides annual totals for energy consumption of the 3 heat pumps\n- Includes some information about a \"Normvilla\" facility for comparison\n- Discusses various energy efficiency measures and upgrades that were implemented, including:\n  - Installing additional temperature sensors and monitoring\n  - Identifying and shutting off an unused cooling circuit\n  - Adjusting the electric heater settings to optimize heat pump usage\n\nKey Numbers:\n- Total annual energy consumption for the 3 heat pumps in 2024 was 57,724 kWh\n- Projected energy consumption for 2025 is provided for the first 4 months\n- The Normvilla facility has an area of 10,000 m2 and consumes 2,505 kWh/m2 annually\n- The Trestadcenter facility has an area of 17,000 m2\n\nOverall, the text appears to be a detailed analysis of the energy performance of the Trestadcenter facility and the various upgrades and improvements made to optimize its energy efficiency."
+    },
+    {
+      "file": "trestadcenter_roadmap.pdf",
+      "path": "/Users/tonytopp/Downloads/trestadcenter_roadmap.pdf",
+      "pages": 2,
+      "category": "technical_doc",
+      "summary": "The text outlines an end-to-end roadmap for the Trestadcenter Kyla Dashboard project, which includes the following key points:\n\n1. Discovery & Scoping:\n   - Develop product requirements for various tiles (e.g., Weather, Pumps, Contacts, Alarms)\n   - Define user roles and permissions\n   - Identify data owners and update frequencies\n\n2. System Architecture:\n   - Use MQTT for device/field bus communication and a time-series database (TimescaleDB or InfluxDB) for data storage\n   - Implement an API layer with FastAPI (Python) or NestJS (TypeScript)\n   - Use WebSocket or MQTT over WebSocket for real-time data push\n   - Build the frontend with React, TypeScript, Vite, and Material-UI (or Flutter)\n   - Integrate authentication with OAuth2/JWT (Keycloak or Auth0)\n   - Set up CI/CD and operations using GitHub Actions, Docker, Kubernetes/ECS, Grafana, Loki, and Prometheus\n\n3. UX/UI Design:\n   - Create low-fidelity Figma wireframes\n   - Develop a component library (MetricCard, StatusGrid, LogoUpload, AlarmToast)\n   - Store design tokens in a theme.ts file\n\n4. Data Contracts & Schemas:\n   - Publish JSON schemas for MQTT payloads and REST endpoints\n   - Provide examples for pump state and weather data\n\n5. Sprint Plan (2-week sprints):\n   - Set up the development environment and deploy a \"Hello World\" application\n   - Implement the static layout, weather tile, logo upload, primary pumps tile, contact/alarm tile, and mini tiles\n   - Polish the application and add offline support\n   - Implement security, metrics, and documentation\n\n6. Guardrails Against \"Hallucination\":\n   - Use TypeScript strict mode and Storybook snapshots\n   - Implement contract tests (Pact) for API payloads\n   - Render a global error boundary component\n   - Validate inbound messages using Zod or Pydantic\n\n7. DevOps Seatbelts:\n   - Implement feature flags (LaunchDarkly or Unleash)\n   - Adopt blue/green deployments with automatic smoke tests\n   - Set up an uptime monitor to send Slack alerts on 404 errors\n\n8. Security & Compliance:\n   - Ensure TLS encryption everywhere\n   - Implement role-based access control (RBAC) in MQTT\n   - Ensure GDPR compliance\n\n9. Documentation & Handoff:\n   - Generate OpenAPI documentation\n   - Create a living runbook for adding new metric tiles\n   - Provide architecture diagrams (C4 level 1-2)"
+    }
+  ],
+  "product_info": [],
+  "other": [],
+  "errors": []
+}
